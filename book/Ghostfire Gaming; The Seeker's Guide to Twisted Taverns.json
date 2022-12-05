@@ -16,9 +16,9 @@
 				"version": "0.1"
 			}
 		],
+		"status": "wip",
 		"dateAdded": 1644736552,
-		"dateLastModified": 1668987711,
-		"_dateLastModifiedHash": "845d285e68"
+		"dateLastModified": 1668987711
 	},
 	"book": [
 		{
@@ -30,17 +30,413 @@
 			"coverUrl": "https://raw.githubusercontent.com/cadowtin/homebrew/twisted_taverns/_img/TSGtTT/cover_resized.png",
 			"contents": [
 				{
+					"name": "Introduction"
+				},
+				{
+					"name": "Ch 1: The Wizard’s Watering Hole",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
 					"name": "Ch 2: Rail-Away",
 					"headers": [
 						"Areas of the Tavern",
+						{
+							"header": "1. The Steam Engine",
+							"depth": 1
+						},
+						{
+							"header": "2. Cargo / Livestock Car",
+							"depth": 1
+						},
+						{
+							"header": "3. Staff Sleeper Car",
+							"depth": 1
+						},
+						{
+							"header": "4. The Saphire, Emerald, and Ruby",
+							"depth": 1
+						},
+						{
+							"header": "5. The Silver Piece",
+							"depth": 1
+						},
+						{
+							"header": "6. The Gold Coin",
+							"depth": 1
+						},
+						{
+							"header": "7. The Copper Penny",
+							"depth": 1
+						},
+						{
+							"header": "8. The Platinum and the Mithril",
+							"depth": 1
+						},
+						{
+							"header": "9. The Mercury Observatory",
+							"depth": 1
+						},
 						"The Tavern Operators",
+						{
+							"header": "Tarmo Warberry",
+							"depth": 1
+						},
+						{
+							"header": "Prim, a.k.a. \"Knuckles\"",
+							"depth": 1
+						},
+						{
+							"header": "Brandr Fintan",
+							"depth": 1
+						},
+						{
+							"header": "Kogan Hamfist",
+							"depth": 1
+						},
+						{
+							"header": "Porters",
+							"depth": 1
+						},
+						{
+							"header": "Verity Billett",
+							"depth": 1
+						},
+						{
+							"header": "Raivo Sevara",
+							"depth": 1
+						},
+						{
+							"header": "Alen Trismys",
+							"depth": 1
+						},
+						{
+							"header": "Somen Gilrona",
+							"depth": 1
+						},
+						{
+							"header": "Restaurant and Bar Staff",
+							"depth": 1
+						},
 						"The Tavern Guests",
+						{
+							"header": "Hammond Axman",
+							"depth": 1
+						},
+						{
+							"header": "Dretin Dalmura",
+							"depth": 1
+						},
+						{
+							"header": "Lord Tavarious Gammon",
+							"depth": 1
+						},
+						{
+							"header": "Lady Ulume Gammon",
+							"depth": 1
+						},
+						{
+							"header": "Esthene Moonshadow",
+							"depth": 1
+						},
+						{
+							"header": "Lord Darus Almanor",
+							"depth": 1
+						},
+						{
+							"header": "Trackle",
+							"depth": 1
+						},
+						{
+							"header": "Bishel Voss",
+							"depth": 1
+						},
+						{
+							"header": "Ryman Thorn",
+							"depth": 1
+						},
+						{
+							"header": "Preston Hillmore",
+							"depth": 1
+						},
 						"Menu",
 						"The Quest Board",
+						{
+							"header": "The Cheat",
+							"depth": 1
+						},
+						{
+							"header": "The Delivery",
+							"depth": 1
+						},
+						{
+							"header": "Rusted!",
+							"depth": 1
+						},
+						{
+							"header": "The Stowaway",
+							"depth": 1
+						},
+						{
+							"header": "Dinner's On You",
+							"depth": 1
+						},
 						"Events",
+						{
+							"header": "Elementally Unsound",
+							"depth": 1
+						},
+						{
+							"header": "Accusations Fly",
+							"depth": 1
+						},
+						{
+							"header": "What Happens...",
+							"depth": 2
+						},
+						{
+							"header": "What to Do...",
+							"depth": 2
+						},
+						{
+							"header": "What Really Happened...",
+							"depth": 2
+						},
+						{
+							"header": "Plot One (Cause of Death)",
+							"depth": 2
+						},
+						{
+							"header": "Plot Two",
+							"depth": 2
+						},
+						{
+							"header": "Plot Three",
+							"depth": 2
+						},
 						"Tavern History",
 						"Stat Block"
 					]
+				},
+				{
+					"name": "Ch 1: The Wizard’s Watering Hole",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 3: Wildaback Tavern",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 4: The Bloated Bounty",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 5: The Dancing Horse",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 6: Poor Larry’s",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 7: Treetop Tavern",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 8: Spring of Peace",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 9: The Grand Shanty",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 10: The Drunken Treasure",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 11: Fungal Grotto",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 12: Ironstein Mine",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 13: The Dungeon of Darkness",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 14: Teapot Temple",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 15: By the Frost",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 16: The Tavern at Death’s Door",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 17: The Daydream",
+					"headers": [
+						"Areas of the Tavern",
+						"The Tavern’s Operators",
+						"The Tavern’s Guests",
+						"Menu",
+						"The Quest Board",
+						"Tavern History",
+						"Stat Blocks"
+					]
+				},
+				{
+					"name": "Ch 18: Extras",
+					"headers": [
+						"World Travelers",
+						"The Critic",
+						"The Gambler",
+						"The Old Lady",
+						"The Seeker",
+						"Emit William Saps, the Tinkerer",
+						"The Three Hexbound Sisters"
+					]
+				},
+				{
+					"name": "Trail Seeker (Card Game)"
+				},
+				{
+					"name": "Map Index"
+				},
+				{
+					"name": "OGL Licence"
 				}
 			]
 		}
@@ -50,6 +446,18 @@
 			"id": "TSGtTT",
 			"source": "TSGtTT",
 			"data": [
+				{
+					"type": "section",
+					"name": "Introduction",
+					"page": 2,
+					"entries": []
+				},
+				{
+					"type": "section",
+					"name": "Ch 1: The Wizard’s Watering Hole",
+					"page": 1,
+					"entries": []
+				},
 				{
 					"type": "section",
 					"name": "Ch 2: Rail-Away",
@@ -62,7 +470,7 @@
 								"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TSGtTT/Rail-Away/rail-away_icon.png"
 							}
 						},
-						"Is it the destination or the journey that's more important? On the Rail-Away, the industrial crew have decided to offer both! This traveling tavern's tracks can run through any number of locations to suit your campaign\u2014above ground and below, between cities and towns, through the countryside, over the mountains, or along the coast. The track can be circular for an infinite loop to bring you back to where you started, or an end-to-end journey with adventure along the way. As a variant way to play using this book, the Rail-Away can serve as a cruise vessel that visits all the other taverns in order.",
+						"Is it the destination or the journey that's more important? On the Rail-Away, the industrial crew have decided to offer both! This traveling tavern's tracks can run through any number of locations to suit your campaign—above ground and below, between cities and towns, through the countryside, over the mountains, or along the coast. The track can be circular for an infinite loop to bring you back to where you started, or an end-to-end journey with adventure along the way. As a variant way to play using this book, the Rail-Away can serve as a cruise vessel that visits all the other taverns in order.",
 						"The adventures found on the Rail-Away are intended for characters level 5 to 10. The tavern can be played as a temporary location, serving as a respite from dangerous adventures. Alternatively, you can play through its combination of quests and a murder mystery event using the NPCs provided.",
 						"While how frequently the Rail-Away stops at stations is at the GM's discretion, some quests require at least a day of travel time between stops to allow player characters time to adventure. Stops can also be instigated by refueling, passenger transitions, or the addition of cargo carts.",
 						{
@@ -245,7 +653,7 @@
 												"url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TSGtTT/Rail-Away/rail_9.png"
 											}
 										},
-										"The Mercury Observatory car is one of the highlights of the Rail-Away. A raised open-air oval platform takes up the entire back end of the carriage, surrounded by iron railings with spear-shaped finials. A large brass telescope is affixed to the platform, providing guests with an opportunity to see the stars\u2014or simply take a closer look at any towns or scenery the train is passing. A number of comfortable deck chairs and small tables are scattered around. Drinks can be ordered directly from any passing staff, or through a communication pipe in the wall.",
+										"The Mercury Observatory car is one of the highlights of the Rail-Away. A raised open-air oval platform takes up the entire back end of the carriage, surrounded by iron railings with spear-shaped finials. A large brass telescope is affixed to the platform, providing guests with an opportunity to see the stars—or simply take a closer look at any towns or scenery the train is passing. A number of comfortable deck chairs and small tables are scattered around. Drinks can be ordered directly from any passing staff, or through a communication pipe in the wall.",
 										"The other half of the carriage is enclosed, but it still offers excellent visibility as it resembles a glass greenhouse with a tri-peaked roof. This way, guests can enjoy the view even in inclement weather. Couches and chairs with plump cushions are available, as well as some potted plants, which adds to the greenhouse atmosphere and lends a sense of privacy for late-night assignations.",
 										{
 											"type": "image",
@@ -476,7 +884,7 @@
 										"Raivo is a handsome young half-elf with outstanding features, and is the Rail-Away's bartender. A particularly hot-headed youth with an anger problem, Raivo was cursed by an ancient and powerful efreeti during an argument (one that he has forgotten the cause of, so frequent and inconsequential were his disagreements). The most prevalent effect of this curse is Raivo's hair, which acts like opaque fire. When his mood is good, the \"flames\" are low lying, barely flickering, but as his anger grows the flames grow stronger and gain real heat. Touching his hair when he is noticeably angry deals {@dice 1d8} fire damage.",
 										"As an attractive and confident bar host, the flaming hair has done nothing to curtail his popularity (and, in fact, has likely increased it among a certain crowd). Still, those who know him well take cover if he's looking particularly fiery.",
 										"Raivo uses the {@creature gladiator} statistics, with a few additional abilities. He uses empty bottles and glasses in the place of spears, and a steel serving tray instead of a shield. Raivo also knows the cantrips mage hand and minor illusion, which he learned from his elven mother. He has proficiency in Herbalism, Brewing, and Alchemy, all of which assist him in creating his sometimes magical cocktails.",
-										"The curse placed on him by the efreeti is so powerful that it cannot be removed by a normal {@spell remove curse} spell. Casting remove curse on him will instead have a rebound effect where Raivo and the caster both feel sweltering heat for the next 24 hours, suffering from a level of exhaustion that cannot be removed by magical means. There are rumors that a {@spell greater restoration} spell would work, but Raivo\u2014concerned about possible counter-curse effects\u2014has not tried it.",
+										"The curse placed on him by the efreeti is so powerful that it cannot be removed by a normal {@spell remove curse} spell. Casting remove curse on him will instead have a rebound effect where Raivo and the caster both feel sweltering heat for the next 24 hours, suffering from a level of exhaustion that cannot be removed by magical means. There are rumors that a {@spell greater restoration} spell would work, but Raivo—concerned about possible counter-curse effects—has not tried it.",
 										"Depending on his anger level, Raivo can create different special cocktails (see the Cocktail Menu). However, there is a danger that, if provoked enough, he will vault over the bar and attack. He avoids outright killing people, but some bar-goers need to be taught a lesson.",
 										{
 											"type": "inset",
@@ -991,7 +1399,7 @@
 									"entries": [
 										"{@i Help Wanted. See Prim.}",
 										"{@b Quest Giver:} Prim, a.k.a. \"Knuckles,\" the ticketmaster",
-										"Prim prides herself on a tight ship, and successful stowaways on the Rail-Away are quite the rarity\u2014the more common case being a brutal beating and expulsion. But recently, Knuckles has heard rumors of disappearing food and moving items. She's searched the train repeatedly but is at her wit's end. Where is the stowaway? She needs them found and now before word gets out that she's lost her touch\u2014she can't punch someone she can't find. She offers 200 gold if the party can solve the mystery and help her oust the stowaway, if there is one.",
+										"Prim prides herself on a tight ship, and successful stowaways on the Rail-Away are quite the rarity—the more common case being a brutal beating and expulsion. But recently, Knuckles has heard rumors of disappearing food and moving items. She's searched the train repeatedly but is at her wit's end. Where is the stowaway? She needs them found and now before word gets out that she's lost her touch—she can't punch someone she can't find. She offers 200 gold if the party can solve the mystery and help her oust the stowaway, if there is one.",
 										"If the players investigate, they may catch glimpses of someone who appears to be a child in places no child should be (as there are likely no families aboard the Rail-Away). While moving between cars, they may notice (with a Passive Perception of 14) a noise from above or the smell of food where there shouldn't be any. If they use one of the ladders to climb to the top of the train, they will find that someone has made what appears to be a small camp on top of one of the sleeper cars, which includes a bedroll and baggage. If they manage to locate Ryman, or wait at his camp, he will surrender.",
 										"Ryman will beg that the party allow him to stay, pledging to share interesting information with them and that he will stop stealing food if they bring him meals. He says that he just wants to travel and means no one any harm. If Lord Gammon and Lord Almanor are on the train, he will indicate that he knows something very juicy is going on and he doesn't want to leave because he wants to find out what happens.",
 										"If the player characters turn him in to \"Knuckles\" and take the reward, Ryman will be \"apprehended\" and kicked off the train at the next stop. Or they can choose to help Ryman, in which case he will share information with them. At the GM's discretion, Ryman may learn additional details to help them during Accusations Fly. However, they will need to come up with a reasonable story for \"Knuckles\" explaining why they didn't find a stowaway (DC 16 Persuasion or Deception check)."
@@ -1320,14 +1728,14 @@
 										{
 											"name": "Plot One (Cause of Death)",
 											"entries": [
-												"Lady Ulume Gammon and her half-sister Esthene Moonshadow have been plotting to get rid of Lord Gammon for some time. Rather than murdering him at home, they had decided it would be best to carry out the plot in public, making sure they both had an alibi. They sourced some poison and a {@item periapt of proof against poison} and bided their time. Esthene made sure that everyone saw her \"break up\" with Lord Gammon, while Ulume created her own alibi by snoring loudly in her bedroom. Esthene made her way to the Observation Car that night to poison him via the Rail-Away's roof. If the player characters went with Lord Gammon, she will be surprised to see them there and will quickly kiss him (depositing the poison via her lipstick, which contains a slow acting {@item Oil of Taggit} poison mixed with wax and cochineal dye from crushed fire beetle shells). She then returned to her room via the same route she took before (again witnessed by Ryman Thorn). This is what actually kills Lord Gammon."
+												"{@book Lady Ulume Gammon|TSGtTT|2|Lady Ulume Gammon} and her half-sister {@book Esthene Moonshadow|TSGtTT|2|Esthene Moonshadow} have been plotting to get rid of {@book Lord Gammon|TSGtTT|2|Lord Gammon} for some time. Rather than murdering him at home, they had decided it would be best to carry out the plot in public, making sure they both had an alibi. They sourced some poison and a {@item periapt of proof against poison} and bided their time. Esthene made sure that everyone saw her \"break up\" with Lord Gammon, while Ulume created her own alibi by snoring loudly in her bedroom. Esthene made her way to the Observation Car that night to poison him via the Rail-Away's roof. If the player characters went with Lord Gammon, she will be surprised to see them there and will quickly kiss him (depositing the poison via her lipstick, which contains a slow acting {@item Oil of Taggit} poison mixed with wax and cochineal dye from crushed fire beetle shells). She then returned to her room via the same route she took before (again witnessed by Ryman Thorn). This is what actually kills Lord Gammon."
 											],
 											"type": "entries"
 										},
 										{
 											"name": "Plot Two",
 											"entries": [
-												"Prim and Trackle are overjoyed to be reunited, as both had thought the other dead. Prim, for her part, is also anxious to release Trackle from her servitude and even speaks to Tarmo Warberry about finding her cousin a job on the Rail-Away. Trackle knows that Ulume and Esthene are planning something, so she wants to get out as soon as possible before things get bad. When Trackle goes to get the honey milk, Prim gives her something: a gem from her stash, just in case Trackle needs some escape funds. This trade acts as a red herring that reveals Gammon's history."
+												"{@book Prim|TSGtTT|2|Prim, a.k.a. \"Knuckles\"} and {@book Trackle|TSGtTT|2|Trackle} are overjoyed to be reunited, as both had thought the other dead. Prim, for her part, is also anxious to release Trackle from her servitude and even speaks to {@book Tarmo Warberry|TSGtTT|2|Tarmo Warberry} about finding her cousin a job on the Rail-Away. Trackle knows that Ulume and Esthene are planning something, so she wants to get out as soon as possible before things get bad. When Trackle goes to get the honey milk, Prim gives her something: a gem from her stash, just in case Trackle needs some escape funds. This trade acts as a red herring that reveals Gammon's history."
 											],
 											"type": "entries"
 										},
@@ -1335,7 +1743,7 @@
 											"name": "Plot Three",
 											"entries": [
 												"Verity is understandably stressed to see her former unsavory boss Lord Gammon aboard the Rail-Away. She doesn't want her past revealed, nor does she want to get pulled into any further schemes. She likes her life with Raivo aboard the train.",
-												"Lord Almanor, meanwhile, is very happy to see Lord Gammon. He'd heard much about the fortune that his former client had amassed and was very interested in doing business with him again. If Gammon wasn't interested in a partnership, Almanor was not above blackmailing him. He attempts multiple times to get Lord Gammon to talk to him\u2014unsuccessfully\u2014and uses the elaborate dinner party as an excuse, knowing that Lord Gammon would not be able to turn it down.",
+												"Lord Almanor, meanwhile, is very happy to see Lord Gammon. He'd heard much about the fortune that his former client had amassed and was very interested in doing business with him again. If Gammon wasn't interested in a partnership, Almanor was not above blackmailing him. He attempts multiple times to get Lord Gammon to talk to him—unsuccessfully—and uses the elaborate dinner party as an excuse, knowing that Lord Gammon would not be able to turn it down.",
 												"The day before, Lord Almanor had noted with interest the interaction between Verity and Gammon and, with his true seeing, had easily penetrated her disguise. When Gammon once again turns him down, Almanor decides to threaten him. He requests that Verity sing her Enchanting Song. Verity does, but not before enlisting the help of Raivo Sevara, who uses his skills to create a cocktail (the {@i Foggy Mind}, whose effects are detailed during day 2's dinner) to hopefully ensure that no one at the table is able to resist her song.",
 												"While she is singing, Lord Almanor uses his Rakshasa claw attack discreetly on Lord Gammon, cursing him and causing a small trickle of blood on his neck. The magical curse was meant to take effect when Gammon slept, filling his thoughts with horrible images and dreams. His plan is to force Gammon to capitulate to his demands with the curse. However, Gammon dies before he is able to threaten him again."
 											],
@@ -1346,7 +1754,7 @@
 											"name": "Tavern History",
 											"entries": [
 												"The Rail-Away started small: just an engine and a single cargo car with a few bunk beds inside. Over the years, it grew larger and larger, and more and more grandiose. Under Tarmo Warberry, new destinations have been added and new track laid in his quest to cover more territory (and learn about the languages and people who live there). He has invested all of his considerable (inherited) fortune into the train and considers the staff to be the family he never had, as he has never married. Nearly all of the staff on the Rail-Away were rescued from the life of a vagabond, urchin, or refugee.",
-												"He enjoys it immensely any time The Seeker visits the Rail-Away and does what he can to get the tiefling to stay and visit for as long as possible. Their incredible stories of otherworldly drama do more than enough to captivate Tarmo, as well attract passengers. To his trivial frustration, The Seeker never \"teaches\" Tarmo anything, saying that \"Learning is a waste of time\u2014why not live instead?\" When approached together, Tarmo says that The Seeker is \"an old family friend\" who was one of the Rail-Away's very first passengers."
+												"He enjoys it immensely any time The Seeker visits the Rail-Away and does what he can to get the tiefling to stay and visit for as long as possible. Their incredible stories of otherworldly drama do more than enough to captivate Tarmo, as well attract passengers. To his trivial frustration, The Seeker never \"teaches\" Tarmo anything, saying that \"Learning is a waste of time—why not live instead?\" When approached together, Tarmo says that The Seeker is \"an old family friend\" who was one of the Rail-Away's very first passengers."
 											]
 										}
 									],
@@ -1750,6 +2158,145 @@
 				]
 			},
 			"tokenUrl": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TSGtTT/Rail-Away/prim_token.png"
+		},
+		{
+			"name": "The Gambler",
+			"isNamedCreature": true,
+			"source": "TSGtTT",
+			"page": 279,
+			"size": [
+				"M"
+			],
+			"type": "humanoid",
+			"alignment": [
+				"C",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"{@item studded leather armor|PHB|studded leather}"
+					]
+				}
+			],
+			"hp": {
+				"average": 91,
+				"formula": "14d8 + 28"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 10,
+			"dex": 16,
+			"con": 14,
+			"int": 10,
+			"wis": 26,
+			"cha": 16,
+			"save": {
+				"dex": "+6"
+			},
+			"skill": {
+				"insight": "+11",
+				"perception": "+11",
+				"sleight of hand": "+6"
+			},
+			"senses": [
+				"blindsight 60 ft. (blind beyond this radius)"
+			],
+			"passive": 21,
+			"languages": [
+				"Common",
+				"Elven",
+				"Gnome",
+				"Halfling",
+				"Undercommon"
+			],
+			"cr": "7",
+			"spellcasting": [
+				{
+					"name": "Innate Spellcasting",
+					"headerEntries": [
+						"The Gambler's innate spellcasting ability is Wisdom (Spell save {@dc 19}, {@hit 11} to hit with spell attacks)He can innately cast the following spells, requiring no material or verbal components:"
+					],
+					"will": [
+						"{@spell augury}",
+						"{@spell locate object}"
+					],
+					"daily": {
+						"1e": [
+							"{@spell legend lore}",
+							"{@spell scrying}"
+						]
+					},
+					"ability": "wis"
+				}
+			],
+			"trait": [
+				{
+					"name": "Destiny Reader",
+					"entries": [
+						"The Gambler benefits from the effects of detect good and evil, as well as detect magic unless he is {@condition incapacitated}. He may choose to ignore these effects, and does not use them to cheat during games."
+					]
+				},
+				{
+					"name": "Fey Ancestry",
+					"entries": [
+						"The Gambler has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Gambler makes {@dice 1d6} attacks with his dice bag."
+					]
+				},
+				{
+					"name": "Foresee the Outcome",
+					"entries": [
+						"The Gambler dissociates from battle, focusing on what is about to happen. Any attacks made against him before his next turn have advantage. At the start of his next turn, roll {@dice 4d20}. For each {@dice d20} result, he may replace the roll for one attack roll, ability check or saving throw made within the next minute with that result."
+					]
+				},
+				{
+					"name": "Dice Bag",
+					"entries": [
+						"{@atk rw} {@hit 6} to hit, range 30/60 ft., one target. {@h}6 ({@damage 1d6 + 3}) force damage. The target then becomes blind or deaf until the end of their next turn."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Diverge Attack",
+					"entries": [
+						"When a creature the Gambler can see misses him with an attack, The Gambler chooses another creature within 5 feet of himself. The attack then successfully hits the chosen creature."
+					]
+				}
+			],
+			"traitTags": [
+				"Fey Ancestry"
+			],
+			"senseTags": [
+				"B"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C",
+				"H",
+				"U"
+			],
+			"damageTags": [
+				"O"
+			],
+			"spellcastingTags": [
+				"I"
+			],
+			"miscTags": [
+				"RW"
+			]
 		}
 	]
 }
