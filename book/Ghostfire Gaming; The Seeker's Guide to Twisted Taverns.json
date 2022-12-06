@@ -1447,9 +1447,9 @@
 										{
 											"type": "table",
 											"colLabels": [
-												"Forest",
-												"Lake/River",
-												"Underground"
+												"Plains",
+												"Hills/Mountains",
+												"Seashore"
 											],
 											"colStyles": [
 												"col-1",
