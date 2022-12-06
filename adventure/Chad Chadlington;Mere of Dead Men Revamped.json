@@ -1,0 +1,679 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "MoDMR",
+				"abbreviation": "Brew",
+				"full": "Mere of Dead Men: Revamped",
+				"authors": [
+					"Chad Chadlington",
+					"Kent Ertmen",
+					"Terry Dyktra",
+					"Diesel"
+				],
+				"version": "1.0",
+				"url": "https://github.com/TheGiddyLimit/homebrew",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"status": "wip",
+		"dateAdded": 0,
+		"dateLastModified": 0,
+		"_dateLastModifiedHash": "cd7c288d98"
+	},
+	"adventure": [
+		{
+			"name": "Scaly Things",
+			"id": "Mere-1",
+			"source": "MoDMR",
+			"group": "homebrew",
+			"contents": [
+				{
+					"name": "Scaly Things",
+					"headers": [
+						"For the Player Characters"
+					]
+				},
+				{
+					"name": "For the Dungeon Master"
+				},
+				{
+					"name": "Mak'kar's Fort",
+					"headers": [
+						"Permanency Aura"
+					]
+				},
+				{
+					"name": "Encounters in the Fort",
+					"headers": [
+						"1. Towers",
+						"2. Parapets",
+						"3. Barracks",
+						"4. Mess Hall",
+						"5. Dry Stores",
+						"6. Stables",
+						"7. Officers’ Quarters",
+						"8. War Room",
+						"9. Cold Stores"
+					]
+				},
+				{
+					"name": "The Mornhaven Towers",
+					"headers": [
+						"South Tower - Main Level",
+						{
+							"header": "10. Sitting Room",
+							"depth": 1
+						},
+						{
+							"header": "11. Entry Hall",
+							"depth": 1
+						},
+						{
+							"header": "12. Dining Room",
+							"depth": 1
+						},
+						{
+							"header": "13. Kitchen",
+							"depth": 1
+						},
+						{
+							"header": "14. Linen Closet",
+							"depth": 1
+						},
+						{
+							"header": "15. Servant's Quarters",
+							"depth": 1
+						},
+						{
+							"header": "16. Bedroom",
+							"depth": 1
+						},
+						{
+							"header": "17. Bathing Room",
+							"depth": 1
+						},
+						{
+							"header": "18. Storage Closet",
+							"depth": 1
+						},
+						"South Tower—Second Level",
+						{
+							"header": "19. Concert Hall",
+							"depth": 1
+						},
+						{
+							"header": "20. Library",
+							"depth": 1
+						},
+						{
+							"header": "21. Laboratory",
+							"depth": 1
+						},
+						"South Tower—Top Floor",
+						"South Tower—Dungeon",
+						{
+							"header": "22. The Warding Chamber",
+							"depth": 1
+						},
+						{
+							"header": "22A. Force Field",
+							"depth": 1
+						},
+						{
+							"header": "22B. Moat",
+							"depth": 1
+						},
+						{
+							"header": "22C. Circle of Black Marble",
+							"depth": 1
+						},
+						{
+							"header": "22D. The Pillar of Light",
+							"depth": 1
+						}
+					]
+				},
+				{
+					"name": "Attack of the Lizard Men",
+					"headers": [
+						"Rounds 1-3",
+						"Round 4",
+						"Round 5",
+						"Rounds 6-10",
+						"Round 11",
+						"Rounds 14-15"
+					]
+				},
+				{
+					"name": "Mak'kar's Last Stand"
+				},
+				{
+					"name": "Concluding the Adventure"
+				}
+			],
+			"level": {
+				"start": 3,
+				"end": 6
+			},
+			"published": "2018-07-05",
+			"storyline": "Mere of Dead Men"
+		}
+	],
+	"adventureData": [
+		{
+			"id": "Mere-1",
+			"source": "MoDMR",
+			"data": [
+				{
+					"type": "section",
+					"name": "Scaly things",
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"Kent tells us that being asked to contribute to the Mere of Dead Men series not only inflated his ego but also triggered a crippling anxiety attack. He dedicates this adventure to his beautiful wife, Ilanya."
+							]
+						},
+						{
+							"type": "inset",
+							"name": "For the Player Characters",
+							"entries": [
+								"Nature can, at times, disgust you. You have been trudging through this miserable swamp for hours, silently cursing those tiny little green insects with the incredibly sharp stingers that have lunched enthusiastically on your hide for most of the morning. You also spare a few somewhat louder curses for the soft muskeg underfoot. But the loudest curses are saved for the hot, sweltering sun overhead that sends rivers of sweat down your back.",
+								"According to Sir Justin’s scout, in a few more hours you should find a more solid stretch of ground that will carry you most of the way to Mornhaven Towers",
+								"Appai'ently the bandits were in competition with a tribe of lizard men for the rich plunder travelling the High Road, However, while the bandits were content to simply rob and pillage, the lizard men seem eager to slaughter their victims. If the threat is not eliminated soon, ti'avel along the road could cease altogether.",
+								"Sir Justin assigned another group to locate the lizard men’s lair and determine their numbers. They discovered that the lizard men were of a more advanced kind, having established a community. There were hundreds of them living in a sprawling cluster of mud huts. There was evidence of military organization, with a definite hierarchy among the males. The stronger ones carried shields painted with bright colors that seemed to denote rank.",
+								"The other group barely escaped with their lives. They decided they would bring a captive from the village, whom Justin could interrogate at his leisure. The single survivor of the kidnapping attempt explained how surprised they all were by the lizard man’s ferocity. It’s amazing that the poor fellow managed to survive his flight back to Iniarv’s Tower with his right arm torn off at the shoulder.",
+								"Justin has assigned you the task of eliminating the lizard man threat. Though he never said so explicitly, you got the distinct impression he would not be disappointed if the entire tribe were wiped out, but other means are preferable.",
+								"The village is supposedly well hidden by geogi'aphy, lying just a short trek south of the Mornhaven Towers. The towers—once home to a trio of elven sorceresse.s—have been swallowed by the swamp, but their peaks are suppo.sedly visible from any high ground. The scout recommended traveling due west from Iniarv’s Tower to The Warts, three low hills surrounding a circle of standing stones. From the top of the hills, you should bo able to sec the towers. Next to the towers there is supposed to be an abandoned fort.",
+								"Every inch of the swamp looks exactly the same, and you find it nearly impossible to tell how far you have to travel.",
+								"On and on you trudge, sticky mud clinging to your hoots. You pray for relief from the thick, heavy smell of the swamp, the stinging blisters on your feet, and the swarms of insects."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "For the Dungeon Master",
+							"entries": [
+								"The lizard men of the Three Towers Tribe are aggressive, and they arc responsible for numerous attacks on the High Road. Recently, however. they have become distracted with a serious problem of their own.",
+								"A company of dopplegangers led by a human fighter named Mak’kar recently arrived in the Mere. They came following a treasure map and were set upon by the territorial lizard men. Mak'kar and his men sought refuge in the abandoned fort near the Mornhaven Towers and managed to hold the scalykind at bay.",
+								"To prevent further attacks against them, the dopplegangers infilti'ated the Three Towers Tribe and stole several of the lizard men’s eggs from the tribal hatchery. Mak’kar then issued an ultimatum to the lizard king that the scalykind were to leave his company alone while they searched through the Mornhaven Towers, or he would destroy the eggs. The lizard king refused to retreat, commanding his tribe to surround the fort.",
+								"The stalemate lasted two days before the lizard men launched an attack. Mak’kar was able to stave off the assault, but to make an example of the lizard men’s foolishness, he held up one of the eggs in plain view of the lizard men and smashed it to pieces.",
+								"Rather than cowing them, this display so enraged the lizard men that they laid siege to the fort for the entire night. Dozens of scalykind were slain before the lizard king called off the assault. Mak’kar lost several men in the attack, but thanks to his tactics and the dopplegangers’ ESI’ ability, the company survived.",
+								"Mak’kar was prepared to cut his losses and flee until he and his officers discovered a room in one of the Mornhaven Towers containing an imprisoned nabassu tanar’ri. Mak’kar believes he can dispel the magic that binds the tanar’ri using his wand of negation, but he has not dared do so for fear that he might simply worsen his present situation."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Mak'kar's Fort",
+							"entries": [
+								"Play this scene when the PCs first enter the fort. As the tall wooden gates swing open to admit them, read or paraphrase the following:",
+								{
+									"type": "insetReadaloud",
+									"entries": [
+										"The 20' high walls enclosing the fort are made of thick tree trunks buried deep in the ground. A catwalk clings to the inside of the wall. At each corner is a 15' tall square tower with two smaller towers flanking the gates. Inside the compound are four wooden buildings.",
+										"Before you is a structure with a wide staircase climbing to a set of double doors. Another half dozen people are running around the courtyard carrying bundles of arrows or lit torches to the guards on the walls.",
+										"The dwarf shuffles up behind you, limping heavily, one hand holding the ridiculous helmet on his head. “My name is Flox,” he says, then turns to the grand building and calls out, “Mak’kar! They’re inside.”",
+										"The great double doors open, and a tall man in a red tabard walks down the steps. Following him are two male elves, a human female, and another human male. The tall man in the red tabard stands before you and offers his hand. “My name is Mak’kar,” he says in a strong, clear voice. “Welcome to our prison.”"
+									]
+								},
+								"Mak’kar asks for details about the pursuing lizard men. He then introduces his four officers—Boz, Ryll, Cayla and Drunn—and explains that he and his soldiers make their living as bodyguards, watchmen for caravans, and so forth. Last month, Cayla found a treasure map in a library in Waterdeep that described rare, magical treasures hidden within the Mornhaven Towers. They knew the dangers of the Mere and the denizens that lived there, but they thought their company was prepared to handle the threat. ( For the true story, refer to “For the Dungeon Master.”)",
+								{
+									"type": "inset",
+									"name": "Permanency Aura",
+									"entries": [
+										"Lingering magical dweomers in the vicinity of the Mornhaven Towers have permanently altered the effects of magic within one mile of the towers. Mak’kar’s fort falls within this area of effect.",
+										"Any cast spell with a duration greater than “instantaneous” has a 25% chance of persisting indefinitely, as if affected by the eighth level wizard spell permanency. Even spells not normally subject to the permanency spell are affected. Thus, a flaming sphere cast within one mile of the Mornhaven Towers has a 25% chance of lasting until dispelled. If the flaming sphere were moved outside the one-mile radius of the permanency aura, the spell would end once its normal duration had expired.",
+										"A spell rendered permanent by the Mornhaven Towers’ aura can be dispelled either by its caster or by use of a dispel magic or wand of negation. Spells cast outside the permanency aura are not rendered permanent upon entering the vicinity.",
+										"Spells with a fixed number of “charges” or “hit points” (like stoneskin and armor) are not affected and dissipate after delivering or absorbing the usual amount of damage. Mirror images remain until struck or dispelled. Spells with delayed effects, such as delayed blast fireball, are not affected by the aura. Spells that trigger a sudden or repeating instantaneous effect (like Melfs acid arrow, glitterdust, shocking grasp, flame arrow, ray of enfeeblement, and Melfs minute meteors) are not altered, either.",
+										"The permanency aura has no effect on magical items with the exception of protection scrolls and spell scrolls."
+									]
+								},
+								"Mak’kar curses his retinue’s misfortune. When they set up camp at the edge of the lake, the lizard men launched an immediate assault. Mak’kar claims proudly that his men fought well but confesses that he lost five soldiers driving off the scalykind. Mak’kar then ordered his men to repair and restore the fort so that they could explore the Towers and maintain a safe defensive position.",
+								"Much to Mak’kar’s horror, the lizard man li-ibe was actually several hundred strong and led by an evil and relentless lizard king. The lizard men surrounded the fort and the Towers. For the past twelve days, Mak’kar and his men have been fighting for their lives, trying to hold off the lizard men. Mak’kar explains that they have killed dozens of the .scalykind, and he is sure that if they can maintain their position long enough, the tribe’s losses will be too great to bear, and they will desi.st. Unfortunately, he is critically short of supplies and men, and he is not sure how much longer he can hold out.",
+								"He asks the PCs to help him defend his fort. He has no spellcasters in his company, and their aid could turn the siege in his favor. Before the PCs have a chance to respond, Flox calls to Mak’kar from the wall. Mak’kar indicates the party should follow him and climbs the ladder to the catwalk.",
+								{
+									"type": "insetReadaloud",
+									"entries": [
+										"Mak’kar says, “You might not believe in what we’re fighting for, but look at that and tell me what other choice you have but to fight with us?” He points over the wall to the edge of the swamp.",
+										"There are lizard men everywhere. They stand motionless and silent in little groups at the edge of the forest. 1 low many hundreds of them are hiding in the trees? “I ask you again,” says Mak’kar, “what other choice do you have?”"
+									]
+								},
+								"The lizard men are massing for another attack. Mak’kar tells Flox (one of the normal dopplegangers in dwarven guise) to escort the PCs around the fort. Flox introduces them to the other members of Mak’kar’s company and explains the basic fort defenses. He then escorts the PCs to their quarters (area K). In the meantime, Mak’kar and his officers make plans for the coming raid.",
+								"Flox encourages the PCs to rest for a while before sunset, at which time Mak’kar assigns them defensive positions along the wall.",
+								"The PCs arc free to explore the fort until nightfall, which should leave them most of the day. However, they are constantly under the subtle .scrutiny of the dopplegangers. If the PCs were captui'ed and released by the lizard men, the dopplegangers will want to know why.",
+								"The dopplegangers’ mind-reading ability is instinctive and operates continuously to about five feet without concentration. If they focus their senses, they can probe an individual up to 60 feet away in their line of sight, although the victim has the same chance to detect the intrusion into his mind as he does to detect scrying. The dopplegangers know this and are reluctant to attempt a focused reading.",
+								"Ssij’s amulet ofproof against detection and nondetection spells defy the dopplegangers’ ESP ability.",
+								"PCs who intentionally fill their heads with nonsense to discourage probing can conceal their true thoughts if they make a successful Intelligence check. Psionici.sts receive a -h2 bonus due to their mental di.scipline. A roll must be made each hour to see whether the clutter can be maintained.",
+								"How the dopplegangers react to the PCs depends on how much the PCs know. Refer to the “It Never Ci'osscd My Mind” sidebar.",
+								"Mak’kar (7th-lcvcl fighter, human male); AL LE; AC 1; MV 12 (10 in armor); F6; hp 50; THACO 14; #AT 3/2 or 2; l)mg by weapon type; S 15, D 1.5, C 16, 1 14, W 11, Ch 13; ML 15; XP 650; wand of negation (8 charges), plate mail + 7, long bow, long sword + 1 (specialized; +1 to hit, +2 damage), short sword, dagger.",
+								"Boz, Ryll, Cayla, and Dunn (greater dopplegangers); INT very ( 12); AL LE; AC 4; MV 9; HD 6; hp 45, 36, 24, 23; THACO 15; #AT 1; Dmg ldl2 or by weapon type; SA shape change, ESP; SD immune to sleep or charm; save as F12; SZ M; ML 15 (13 if Mak’kar is slain); XP 975; MM/60 (modified); chain mail, long sword, long bow, dagger.",
+								"Dopplegangers (17); INT very (11); AL NE; AC 5; MV 9; HD 4; hp 35 (x2), 28 (x4), 22 (x3), 18 (x5), 12, 8 (x2); THACO 17; #AT 1; Dmg ldl2 or by weapon type; SA as above; SD immune to sleep and charm; saves as FiO; SZ M; ML 13(11 if Mak’kar is slain); XP 420; MM/&Q; chain mail, long sword, long bow, dagger."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Encounters in the Fort",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "1. Towers",
+									"entries": [
+										"Standing atop these 15' tall wooden platforms arc ld3 dopplegangers armed with long bows. These guards monitor the lizard men surrounding the fort.",
+										"In.side each tower are three dozen arrows in a rotted wooden chest."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "2. Parapets",
+									"entries": [
+										"These walkways run along the inside of the entire wall. The outer wall comes to a height of four feet above the catwalks. Each wall is patrolled by at least one doppleganger armed with a long bow."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "3. Barracks",
+									"entries": [
+										"These simple rooms house from 2-3 soldiers. Each room contains a single bed with a motheaten mattress; other occupants sleep on the floor.",
+										"The centre room on the east side has a wooden box hidden under a pile of blankets on the floor. The box is full of dried and shrivelled human ears. The owner, Orax, is a sadistic doppleganger who collects mementos from his victims. The dopplegangers do not like strangers nosing around in their quarters, .so the PCs must be discreet if they want to search the rooms, especially the ones facing the outer wall."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "4. Mess Hall",
+									"entries": [
+										"The south part of this room is filled with old benches and tables set with heavily rusted tin plates and spoons. The northern half is a crude kitchen with a great stone fireplace and a chaotic pile of clay pots."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "5. Dry Stores",
+									"entries": [
+										"Fortunately for the company, this room was crammed full of supplies when they first discovered the fort. There are still boxes of nails, hammers, saws, axes, coils of rope, and kegs of tar (hard as a rock). Also heaped here are sacks of flour and dried rice, boxes of salt, and other miscellaneous dry goods."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "6. Stables",
+									"entries": [
+										"This area was used as sleeping quarters when space was short. It is now unused and has been set aside for the party. The floor is covered with a generous layer of dry straw."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "7. Officers’ Quarters",
+									"entries": [
+										"These rooms are larger (though little better) than the soldiers’ barracks. Each has a single wooden bed on the verge of collapse, a wooden table (no chair), and a decrepit chest of drawers. The northwestern room (area 7A) is Mak’kar’a and contains pile of rumpled clothes shoved under the bed, and two simple golden rings (100 gp each) on the table. Boz lives in the southwestern room (area 7B), and has a secret stash of gems (250 gp, 200 gp, 50 gp, 3 X 10 gp) in a small cloth bag stuffed into a gap between the fl(M)r and the wall behind the dresser. The northeastern room ( area 70 is shared by Cayla and Ryll, and it contains personal effects but nothing of value. Dunn’s room (area 7D) lies to the southeast. Under his bed is the painted shield of a lizard man patrol leader—part of Dunn’s disguise when he and several others infiltrated the lizard man village."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "8. War Room",
+									"entries": [
+										"Stairs lead up to this room which is dominated by an immense wooden table covered with papers. One of the legs is missing, so the table is supported by a barrel. Of the dozen chairs in the room, only two are unbroken. They and five wooden crates provide seating around the table.",
+										"Here is where Mak’kar and his officers plan their defenses, discuss the best use of their dwindling supplies, and plot their escape. Despite the dire circumstances, Mak’kar has insisted on proper decorum and organization. During the day, Mak’kar and his lieutenants spend must of their time here. They do not take kindly to interruptions and demand that intruders leave immediately."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "9. Cold Stores",
+									"entries": [
+										"This building is padlocked shut, and Mak’kar carries the only key. The lock can be picked with normal chances for success. If any of the company is asked why the building is locked, they simply say it contains food .supplies. (Mak’kar claims he must ration the remaining foodstuffs and does not fully trust his soldiers with the inventory.)",
+										"Inside the room is a nearly empty bag of preserved meat, a half full cask of red wine, a dozen wrinkled vegetables, a burlap sack with six onions inside, and six barrels of lamp oil (five are empty and one is a quarter full).",
+										"Against the west wall is a small unlocked chest that holds the dopplegangers’ treasure. Inside are 270 pp, five identical amethysts worth 200 gp each (or 1,200 gp for the set), and six small white pearls (100 gp each).",
+										"At the north end of the room is the well, an 8' hole in the ground with a winch and bucket assembly built into the roof The water level is 12 feet below ground level.",
+										"Immersed in 15 feet of water are 48 ivory-colored spheroids about the size of cantaloupes. These are the lizard men’s eggs. They are invisible from above unless someone holds a light source directly above the water. Although fully submerged, the eggs are intact and salvageable.",
+										"A dimension door has formed in front of the well—a spell cast years ago but rendered permanent by the lingering magic of the Mornhaven Towers. The portal’s aperture is a shimmering, 7' tall, 3’ wide Rectangular plane leading to area 10 in the Mornhaven Towers.",
+										"The officers have told the wall guards to keep an eye on the building but not to he obvious about it. They don’t want to draw the party’s .suspicions. Unfortunately, the position of the door makes it impossible to keep under constant observation. If the PCs watch the guards’ routine, they can quickly determine that every 10 minutes (one turn), there are two minutes when no guards can see the doorway. If whatever they do to gain acce.ss to the building is quiet and lakes less than two rounds, they may enter noticed. They might also offer to cover guard duty for the soldiers on the north wall for a few hours. If they are noticed, the guards shout at them to get away from the door.",
+										"If the PCs decide to use the dimension door, there are a few things they need to remember. In a fort this size, it won’t take long for them to be missed, so either a few PCs explore while the rest maintain appearances above ground, or the entire group goes, but for only a brief period.",
+										"A wand of negation or a dispel magic cast against 15th-level spell use dispels the dimension door.",
+										{
+											"type": "inset",
+											"name": "It Never Crossed My Mind",
+											"entries": [
+												"Mak’kar’s dopplegangers expect the PCs to be suspicious. However, they might be alarmed to learn, for example, that the party has found the lizard man eggs (area 9) or the imprisoned tanar’ri (area 22). How they react to the party depends on what the PCs know and how much they let slip.",
+												"If the PCs make, a concerted effort to conceal their thoughts, the DM should ask that each PC make an Intelligence check each hour. Psionicist PCs receive a +2 bonus to the roll.",
+												"Each time a character fails his oilier Intelligence check, there is a 1- in-G chance that a dopplegangcr picks up some incriminating thought and reports it to Mak’kar. (If several PCs fail their Intelligence checks, roll Idh for each failed check.) Any roll of 1 indicates that a doppleganger has successfully detected an incriminating thought and immediately reports it to Mak’kar. H'he dopplegangers’ reactions depend on what they know:",
+												{
+													"type": "list",
+													"style": "list-hang",
+													"items": [
+														"If the PCs met with the lizard men and talked to Ssi.j, the dopplegangers are cautious. Within an hour, Mak’kar orders the company to monitor the PCs discreetly. From this point on, PCs find it difficult to move about unnoticed. No matter where they go, one of the company always seems to have a reason to be nearby, watching them.",
+														"If the PCs suspect Mak'kar’s company of being dopplegangers, the creatures are distrustful. The dopplegangers know that the party is figuring out the truth. Mak’kar’s company keeps constant watch on the PCs. Wherever the PCs go, two or three dopplegangers openly stare at them from the walls, yard, or nearby doorways.",
+														"If the PCs sneak into area 9 and find the dimension door portal, the dopplegangers are threatening. Mak’kar’s company realizes that the PCs know too much. The PCs are told to remain in the fort and help defend it against the lizard men; those who refuse are confined. Those who attempt to escape or evade confinement are attacked or driven out.",
+														"If the PCs found the lizard men’s eggs or the Tanar’ri trapped in the Mornhaven Towers, Mak’kar’s dopplegangers are hostile. The company attacks the PCs outright. If the fight turns against them, Mak’kar and his officers flee a the magical portal in area 9. In this case, refer to “Mak’kar's Last Stand.”"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								},
+								{
+									"type": "entries",
+									"name": "",
+									"entries": [
+										""
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Mornhaven Towers",
+							"entries": [
+								"The origins of the elven sisters who once lived in these towers is lost to history. They were said to he powerful wizards who actively fought for the cause of good. All that remains of them now are their towers and some lingering dweomers.",
+								"The sisters abandoned their homes shortly after imprisoning a nabassu tanar’ri that was ravaging the Sword Coast. To cage it, they built an underground warding chamber, then sealed the tower. They then attempted to sink the towers beneath the ground and seal them in stone so that no one could ever release the tanar’ri. This was only partly successful. The massive block of bedrock that partly engulfs the southern tower extends east for miles all the way to the warts. Over the centunes, the two northern towers flooded and fell into disrepair, and they are now on the verge of structural collapse. They are completely empty and are not described here, though the DM is free to detail them us he sees fit. The southern tower, however, by virtue of its being sealed, has remained dry.",
+								"Because of the intense magical wards guarding the tanar’ri, the entire southern tower is virtually bathed in preseiwative magics. These spells have persisted for centuries due to the permanency aura that encapsulates the three towers. Thus, even though the contents are impossibly old, much of what is inside is still in serviceable shape. This also means that everything in the tower radiates magic.",
+								"The furnishings and decorations of the tower arc valuable if the PCs could devise some way of first getting them out of the tower and then transporting them across the Mere to Waterdeep to sell them. Since this is unlikely and more trouble than it’s worth, only the more portable valuables are itemized here. If the players insist on looting the tower, the DM must wing it.",
+								{
+									"type": "entries",
+									"name": "South Tower - Main Level",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "10. Sitting Room.",
+											"entries": [
+												"The dimension door leading back to Mak’kar’s fort manifests itself in the south corner of the chamber. An empty stone fireplace dominates most of the southern wall, and the re.st of the room is taken up by five chairs with thick orange cushions and small tables placed here and there; atop one of the tables rests an empty wine glass.",
+												"A trail of muddy boot prints leads from the dimension door portal to the western door. There is nothing of interest here, except that the fireplace has no chimney flue. Lighting a fire in the hearth reveals that the smoke is magically displaced—one of many lingering enchantments placed upon the tower."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "11. Entry Hall",
+											"entries": [
+												"At the north end of this grand hallway, a wide staircase a.scends to the next level. A massive chandelier of crystal and brass hangs from the ceiling, with dozens of cracked yellow candles held precariously in their holders. A red carpet runs the length of the hall and all the way up the stairs. Conspicuously absent is a doorway in the south wall. (The tower entrance was magically sealed before the tower sank.) Again there is nothing of interest here, although the muddy trail of boot prints goes directly to the west door"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "12. Dining Room",
+											"entries": [
+												"At the north end of this grand hallway, a wide staircase a.scends to the next level. A massive chandelier of crystal and brass hangs from the ceiling, with dozens of cracked yellow candles held precariously in their holders. A red carpet runs the length of the hall and all the way up the stairs. Conspicuously absent is a doorway in the south wall. (The tower entrance was magically sealed before the tower sank.) Again there is nothing of interest here, although the muddy trail of boot prints goes directly to the west door",
+												"West of the door against the north wall is a china cabinet stacked with 20 place .settings of yellowed china. In the drawers beneath are 20 heavily tarnished set of silverware. The muddy boot tracks lead to the north door, which is ajar."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "13. Kitchen",
+											"entries": [
+												"Against the east wall is another stone fireplace without a chimney. The remaining walls are lined with shelves and cupboards, all filled with cooking utensils, spoiled foodstuffs, and neatly folded towels. More foodstuffs and supplies are stored in a small closet pantry. In the center of the kitchen stands a great worktable with a shining metal cleaver (a hand axe +3) buried deeply into the tabletop. The trail of boot prints leads to the western door."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "14. Linen Closet",
+											"entries": [
+												".Several neat stacks of dusty white towels are stored on shelves in this room. On the floor are a twelve bottles of perfumes, aromatic oils, and exotic liquid soaps. These are particularly valuable, worth 200-300 gp each to the right buyer. Fortunately for the PCs, the bottles are made of thick glass and resist breakage as if they were metal. Leaning in one corner is a mop of flying, the command word, “Pravap,” is etched into the handle."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "15. Servant's Quarters",
+											"entries": [
+												"This room contains three beds, three chairs, a desk, a wardrobe, and a silver-framed hanging mirror. The desk and w'ardrobe are filled with woi'thless apparel and personal effects.",
+												"A large sack of flour is spilled in a pile on the floor. It looks unremarkable, but the enchantments of the tower have given it life. It is, in fact, a kind of sandling that fearlessly attacks anything that enters the room. It has no treasure and does not pursue beyond the room’s confines",
+												"Flour sandling; INT non-; AL N; AC 3; MV 12; HD 4; hp 18; THACO 17; #AT 1; Dmg 2d8; SA surprise; SD immune to sleep, charm, and hold spells; SZ L; ML 7; XP 420; A/M/102 (elemental, earth-kin—variant)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "16. Bedroom",
+											"entries": [
+												"A grand four-poster bed with bright red silk curtains and .shining white silk blankets stands against the west wall. On each .side is an elegant end table with a dry and non-functional oil lamp. A reclining sofa with red cushions faces the bed. The lamps arc magical; if they are filled with oil and lit, they burn indefinitely without consuming the fuel, but only so long as they remain within the permanency effect of the Mornhaven Towers.",
+												"A tall wardrobe holds all manner of garments; dresses, shoes, blouses, pants, scarves, gloves, hats, and so on. Unfortunately, they are hundreds of years out of style and so old and fragile that they fall apart when handled. In the back southwestern corner, under a pile of garments is a simple wooden chest. It is unlocked and inside is some “petty cash” for household expenses: 100 gp. One of the garments appears to be a black cloak but is actually a cloaker. It does not attack unless physically disturbed.",
+												"Cloaker: INT high; AL CN; AC 3 (1); MV 1, FI 15 (D); HD 6; hp 36; THACO 15; #AT 2 + special; Dmg Id6/ld6 + special; SA engulf victims; moaning; SD manipulate shadows; SZ L; ML 14; XP 1,400; MM/44."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "17. Bathing Room.",
+											"entries": [
+												"A large ceramic bath tub is built into the floor of this room. The entire room is decorated with various shades of blue tiles. In the northwest comer is a large metal stove with three green copper kettles on top. This stove is missing a chimney flue hut has no need of one (see area 10 for details). The tub is filled with cold water that has become enchanted over the many centuries of exposure to the magic of the tower. Two water weirds live in the tub, forming in two rounds to attack anyone within reach.",
+												"Water weirds (2): INT very; AL CE; AC 4; MV 15; HD 3+3; hp 20, 15; THACO 15; #AT 0; Dmg nil; SA drowning; SD suffers only 1 hp damage from piercing/slashing weapons; half damage from fire; reforms two rounds after being reduced to 0 hp; .SZ L; ML 13; XP 420; MM/104 (elemental, water-kin)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "18. Storage Closet",
+											"entries": [
+												"The room is filled with metal shelves, crammed with spoiled food and wine long .since turned to vinegar. There is an open trap door in the floor with a ladder leading down to area 22."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "South Tower—Second Level",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "19. Concert Hall",
+											"entries": [
+												"A row of comfortable chairs with thick cushions lines the curved outer wall of the room facing the stairs. Arranged in the middle of the chamber are two pianos, a harp, three kinds of lutes, five different horns, nearly a dozen different varieties of flutes, and 15 violins. Each is set up in front of its own chair and music stand. All of the strings are so brittle that they break if plucked, and the metal instruments are tarnished beyond restoration."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "20. Library",
+											"entries": [
+												"This room is filled with bookshelves that reach nearly to the ceiling. A great many books bave been removed, as there are large gaps between tomes on the shelves. A few hours of searching reveals that someone took a great deal of care to remove all of the truly interesting volumes, leaving behind hundreds of informative hut useless volumes of common interest literature. A scroll with the dispel magic and fly spells is tucked into one of the old tomes."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "21. Laboratory",
+											"entries": [
+												"This room contains several tables covered with alchemical equipment, dusty but neatly arranged. Wliile all of the reagents have long since evaporated, spoiled, or turned to dust, the equipment itself is in excellent shape. Among the dozens of boxes of spoiled powders are five boxes of powdered platinum, worth a total of 300 gp."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "South Tower—Top Floor",
+									"entries": [
+										"The top floor (not depicted on the map) has the same dimensions as the floors below, but the ceiling peaks high overhead. During the day, sunlight streams through holes and gashes in the roof. During the night, the tower becomes home to dozens of harmless swamp fireflies.",
+										"Once a beautiful garden of exotic flowers and lush trees, ever3fthing is now long since dead."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "South Tower—Dungeon",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "22. The Warding Chamber",
+											"entries": [
+												"The exact description of this room varies depending on what circumstances bring the party here. If they are exploring this room on their own for the first time, read the following:",
+												{
+													"type": "insetReadaloud",
+													"entries": [
+														"You climb down the ladder into a circular chamber 100 feet across and about 1 5 feet high. The room is lit hy a column of blue light that .stands in the exact center of the room. The outer walls are lined with black tapestries that stretch from floor to ceiling.",
+														"There is what looks like a shallow, circular moat running the circumference of the room about ten feet from the wall. A continuous stream of water flows into it through a hole in the ceiling, pouring down a drain to the south. The entire surface ripples with tiny waves as if the floor is vibrating slightly. You can see the stone bottom of the moat is elaborately carved in a geometric pattern of interlocking squares.",
+														"Beyond the moat, the floor is inlaid with a wide circular band of black marble that is further inlaid with golden runes. There are perhaps two dozen .symbols set into the dark rock.",
+														"At the center of the room stands the pillar of light. Suspended motionless inside the light is a dormant shape, so undeniably dark that it seems to pull the illumination inside itself, bending it."
+													]
+												},
+												"The magical auras in this room, rendered permanent by the nature of the vicinity, are so strong they can be felt by anyone capable of casting wizard spells. Further, a detect, evil spell reveals the presence of evil concentrated in the center of the pillar.",
+												"The creature inside the pillar is a nabassu tanar’ri, trapped behind multiple wards. It is completely beyond his power to free itself or to manipulate others toward the deed ... at least for the time being."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "22A. Force Field",
+											"entries": [
+												"Running along the outside of the moat is a cylindrical wall offorce that extends from floor to ceiling. The wall offorce, rendered permanent by the lingering magic of the Momhaven Towers, can be brought down simply by saying “Liberatus Infernum.” The wall is restored by saying “I cage thee.”",
+												"A dispel magic has no effect on the wall offorce. A wand of negation lowers the wall for {@dice 3d6} rounds; a rod of cancellation or disintegrate spell destroys the wall utterly."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "22B. Moat",
+											"entries": [
+												"The moat is not a baiTier to anyone but the tanar’ri itself and can be crossed simply by wading through it. To break the ward, the hole through which the water flows 44 Issue No. 70 SSSCALY THINCSSS into the moat must be plugged. With the source stoppered, the moat dries up in two rounds. Restoring the ward is simply a matter of unplugging the hole, after which time the moat refills to a 6\"-depth in ten rounds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "22C. Circle of Black Marble.",
+											"entries": [
+												"The circle of hlack marble is inlaid with golden nines. The runes are magical, and each one negates a particular spell within the circle’s confines. The following spells do not function inside the circle: darkness 15' radius, dimension door, energy drain, gate, infravision, invisibility, phase door, plane shift, regenerate, silence 15' radius, teleport, teleport without error, and vampiric touch . Additonal runes prevent creatures from entering or leaving the circle via the Astral or Rthereal Plane.",
+												"Anyone can walk into or out of the circle withour harm. Damaging the circle has no effect on the symbols, as the damaged marble reforms in a matter of seconds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "22D. The Pillar of Light",
+											"entries": [
+												"The pillar of blue light is what actually keeps the tanar’ri in stasis. The radiance is generated by a talisman of pure good embedded in the floor under his feet. Removing the talisman from its niche in the floor is a simple matter; however, doing so deactivates the stasis field and awakens the tanar’ri.",
+												"The sisters built one final safety feature into the warding so that no one could release the nabassu without their knowledge. When the pillar is deactivated, a message is delivered to every human, elf, dwarf and gnome within a mile of this chamber by means of a permanent whispering wind spell. The message states: “The tanar'ri has been unleashed.\"",
+												"There should be absolutely no question in any PC’s mind that whatever is caged here should not be released under any circumstances. With all of the wards currently in place, the party is free to explore, learn the nature of the room, and develop a healthy fear of the thing imprisoned in the icy light.",
+												"Nabas.su tanar’ri: IN'l’ high; AL CE; AC -.1; MV 12, Fly 15 (C); HD 7+16; hp .54; #AT 3; Dmg 2d4/2d4/3d4 or by weapon type +7; SA death gaze 1/day, paralyzation, spell-like abilities; SD +1 or better to hit, tanar’ri immunities; MR 50%; SZ M (7' tall); ML 15; XP 10,000; PlanescapS^ MC Appendix/106 (tanar’ri)."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Attack of the Lizard Men",
+							"entries": [
+								"Twenty-four hours after the PCs infil- trate Mak’kar’s fort, the lizard king declares that there will be no further negotiating with the fort’s defenders and commands that every living thing inside the fort be slain. He has given up any hope of recovering the tribe’s eggs and is driven purely by the lust for blood. Ssij believes that there is still a chance to save the hatchery. Whatever Ssij’s intentions, the vast majority of the lizard men are following the king’s orders and do their utmo.st to take the fort.",
+								"The lizard men have prepared a new strategy for taking the fort. Hidden in the swamp 200 yards from the fort are two massive sling-shot mechanisms. Upon the lizard king’s command, the scalykind use these to fire two huge tree trunks at the east wall. The missiles come hurtling out of the underbrush with no warning and slam into the wall.",
+								"When the trees hit the wall, there is a deafening crash as wood splinters go flying through the air like rain- drops. The center ten feet of the cast wall disintegrates under the concus- sion, and the rest of the structure heaves inward. Anyone in the middle of the wall when the logs hit suffers 4d6 hp damage from the impact and is thrown heavily to the ground inside the fort for another 2d6 hp of damage. PCs standing anywhere else on the catwalk are still thrown for 2d6 hp damage unless a successful Dexterity check is made.",
+								"Seconds later, dozens of lizard men swarm out of the water to rush the east wall. A few rounds later, hoping that guards from the south are pulled away to defend the breach, several more lizard men surge out of the southern swamp to attack the main gate. PCs hear Mak’kar screaming at them, “If those reptiles get inside, we’re all as good as dead\"",
+								"Mak’kar’s company struggles to hold off the attackers at the breach and cannot provide reinforcements. The battle happens as follows unless the PCs accomplish something to turn the tide:",
+								{
+									"type": "entries",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Rounds 1-3",
+											"entries": [
+												"The PC heroes have two rounds to prepare spells, draw weapons, and move into position around the breach in the wall. During this time, they can see Mak’kar’s men fighting the lizard king’s giant lizards at the breach."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Round 4",
+											"entries": [
+												"The first wave reaches the breach in the eastern wall and tries to force its way through. The attack party consists of 24 lizard men, one patrol leader, one subleader, and Ssavath the lizard king. Their strategy is simple: attack en masse",
+												"During this time, the party can see other lizard men slipping through the outer defenses, though they quickly disappear from view. (These spend the battle searching the fort for the stolen eggs, attacking any non-lizard man they encounter.)"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Round 5",
+											"entries": [
+												"Ssij, the lizard man shaman, casts plant growth at the base of the breach in the eastern wall. He waits until Ssavath, the lizard king, is in the fort before com- pleting the spell, thus trapping him inside.",
+												"By the end of the round, a massive and impossibly thick wall of vines chokes the hole and fills it completely. The barrier is tightly entwined and as hard as iron. Anyone standing in the breach is thrown inside the fort as the vines burst out of the ground."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Rounds 6-10",
+											"entries": [
+												"Ssavath and his lizard men, trapped by Ssij’s plant growth spell, fight to the death. The lizard king is evil and bloodthirsty. Ssij hopes that Ssavath, deprived of reinforcements, will be slain in the battle before the second wave of lizard men breaches the main gate. Ssij holds back the remaining lizard men (almost 200 of them) pending the outcome of the battle."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Round 11",
+											"entries": [
+												" The second wave (24 lizard men, two patrol leaders, and one war leader) broach the main gates. They immediately begin searching for the tribe’s eggs, attack- ing anyone who stands in their way. They hurl their javelins at anyone who attacks them from the towers or catwalk."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Rounds 14-15",
+											"entries": [
+												"Ssij uses a *divination* spell to ascertain whether or not Ssavath has been slain. (Unless the PCs intervene, the dopplegangers will succeed in killing the lizard king.) Ssij then uses his *sanctuary* spell to approach and enter the fort unac costed. With the lizard king trapped or dead inside the fort, Ssij tries to contact the PCs, persuading them to help retrieve the eggs and thus end the battle."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Mak'kar's Last Stand",
+							"entries": [
+								"Fearing the imminent loss of the fort to the scalykind, Mak’kar and his remaining officers fight their way into area 9, leaving the other dopplegangers to fend for themselves. Any PCs who wish to join Mak'kar are welcome; he reassures the PCs that the scalykind will find their eggs safe and sound in the well. Mak’kar plans to collapse the dimension door in area 9 using his wand of negation. He does this once he and his officers are safely through the other side. The lizard men will be unable to pursue them",
+								"Mak’kar plans to avenge his defeat by unleashing the tanar’ri and sending it out to destroy the lizard men.",
+								"Mak'kar uses his wand of negation to lower the wall of force in the ward- ing chamber (area 22), then removes the talisman of pure good that keeps the evil nahassu in stasis. Once released, the tanar’ri agrees to help Mak’kar in exchange for its freedom. Once permitted to leave the protective wards of the chamber, the tanar’ri turns on Mak’kar and his officers (and any PCs who are present), rending them limh from limb.",
+								"After turning on Mak’kar and his followers, the nahassu goes searching for more human victims so that it may achieve maturity and return to the Abyss. If it can find no human prey in the Tower, the nahassu tele- porta elsewhere, terrorizing some other corner of the Realms."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Concluding the Adventure",
+							"entries": [
+								"Regardless of when it occurs, the lizard men finally overrun the fort, perhaps while the party is in the tower confronting Mak’kar. If the PCs helped the lizard men secure their eggs and the lizard king was slain in the battle, the PCs are spared.",
+								"Once the eggs are found and the fort secured, PCs .still inside the fort are approached by several lizard men and a lizard man war leader:",
+								"A battle-scarred lizard man stands before you, his forked tongue flickering wildly. “Sssavath is dead,” he says. “Ssij hasss named me king. I releassse you for helping usss find our eggsss.”The war leader then moves closer to your gi'oup and speaks in a lower voice so that the other lizard men will not hear him.",
+								"“We mussst ssstop raidsss on humansss. Ssij sssays Ssavath was wrong to raid humansss. Raidsss make humansss angry. They might sssend army to ssslay Three Towersss Tribe. You sssend thisss messsage: we ssseek peace with human tribesss.”",
+								"The lizard man war leader, Hossk, is an honorable scalykind, and he is speaking the truth. He and Ssij both opposed Ssavath’s raids on the High Road, knowing they would eventually lead to repercussions. At this point, the PCs should leave the fort quickly while they have the chance."
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
