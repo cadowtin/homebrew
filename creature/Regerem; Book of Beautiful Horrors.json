@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
@@ -20,11 +20,11 @@
 			}
 		],
 		"dateAdded": 0,
-		"dateLastModified": 1668987711,
+		"dateLastModified": 1671646965,
 		"internalCopies": [
 			"monsterFluff"
 		],
-		"_dateLastModifiedHash": "b68f879238"
+		"_dateLastModifiedHash": "5046b50239"
 	},
 	"item": [
 		{
@@ -538,9 +538,7 @@
 				"The deep lead version of a melee weapon or of ten pieces of ammunition costs 300 gp more than the normal version, whether the weapon or ammunition is made of the metal or coated with it."
 			],
 			"requires": [
-				{
-					"ammunition": true
-				}
+				{}
 			],
 			"inherits": {
 				"rarity": "unknown",

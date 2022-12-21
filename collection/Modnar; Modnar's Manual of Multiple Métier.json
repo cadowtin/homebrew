@@ -109,6 +109,14 @@
 				"DAPC",
 				"COFSA",
 				"DM13"
+			],
+			"classFeature": [
+				"reddit_UA",
+				"reddit"
+			],
+			"subclassFeature": [
+				"phtm",
+				"reddit_UA"
 			]
 		},
 		"optionalFeatureTypes": {
@@ -153,8 +161,8 @@
 			}
 		},
 		"dateAdded": 0,
-		"dateLastModified": 1668987711,
-		"_dateLastModifiedHash": "be07005a71"
+		"dateLastModified": 1671569306,
+		"_dateLastModifiedHash": "c63b8150b5"
 	},
 	"itemProperty": [
 		{
@@ -7145,7 +7153,8 @@
 						},
 						"subclass": {
 							"name": "Phantom Blade",
-							"source": "phtm-modnar"
+							"source": "phtm-modnar",
+							"shortName": "Phantom Blade"
 						}
 					}
 				]
@@ -7188,7 +7197,8 @@
 						},
 						"subclass": {
 							"name": "Phantom Blade",
-							"source": "phtm-modnar"
+							"source": "phtm-modnar",
+							"shortName": "Phantom Blade"
 						}
 					}
 				]
@@ -7232,7 +7242,8 @@
 						},
 						"subclass": {
 							"name": "Phantom Blade",
-							"source": "phtm-modnar"
+							"source": "phtm-modnar",
+							"shortName": "Phantom Blade"
 						}
 					}
 				]
@@ -7647,7 +7658,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					},
 					{
@@ -7657,7 +7669,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -7737,7 +7750,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -7892,7 +7906,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -7999,7 +8014,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -8150,7 +8166,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -8226,7 +8243,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -9039,7 +9057,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -9246,7 +9265,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -9332,7 +9352,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -9419,7 +9440,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -9764,7 +9786,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -9905,7 +9928,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -10264,7 +10288,8 @@
 						},
 						"subclass": {
 							"name": "",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": ""
 						}
 					}
 				]
@@ -10654,7 +10679,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					},
 					{
@@ -10664,7 +10690,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -10813,7 +10840,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -10960,7 +10988,8 @@
 						},
 						"subclass": {
 							"name": "",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": ""
 						}
 					}
 				]
@@ -11037,7 +11066,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -11145,7 +11175,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -11251,7 +11282,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -11362,7 +11394,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -11477,7 +11510,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -11585,7 +11619,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -11664,7 +11699,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -11740,7 +11776,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -11817,7 +11854,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -11896,7 +11934,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -11971,7 +12010,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12048,7 +12088,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12124,7 +12165,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					},
 					{
@@ -12134,7 +12176,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -12211,7 +12254,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12289,7 +12333,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12367,7 +12412,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12445,7 +12491,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12522,7 +12569,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12599,7 +12647,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					},
 					{
@@ -12609,7 +12658,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -12685,7 +12735,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -12760,7 +12811,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12838,7 +12890,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -12913,7 +12966,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -12990,7 +13044,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -13070,7 +13125,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13155,7 +13211,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13230,7 +13287,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13305,7 +13363,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13383,7 +13442,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					},
 					{
@@ -13393,7 +13453,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13469,7 +13530,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13547,7 +13609,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13628,7 +13691,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13709,7 +13773,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13794,7 +13859,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13871,7 +13937,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -13948,7 +14015,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14028,7 +14096,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14107,7 +14176,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14182,7 +14252,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14257,7 +14328,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14333,7 +14405,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14408,7 +14481,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14486,7 +14560,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14564,7 +14639,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14642,7 +14718,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14719,7 +14796,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14795,7 +14873,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14872,7 +14951,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -14950,7 +15030,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15026,7 +15107,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15102,7 +15184,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15177,7 +15260,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15253,7 +15337,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15329,7 +15414,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15405,7 +15491,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15481,7 +15568,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15557,7 +15645,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15636,7 +15725,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -15714,7 +15804,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					},
 					{
@@ -15724,7 +15815,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -15804,7 +15896,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -15881,7 +15974,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -15957,7 +16051,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -16038,7 +16133,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16124,7 +16220,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16210,7 +16307,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16287,7 +16385,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16365,7 +16464,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16441,7 +16541,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16518,7 +16619,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16595,7 +16697,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16675,7 +16778,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16752,7 +16856,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -16830,7 +16935,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -16911,7 +17017,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -16989,7 +17096,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -17068,7 +17176,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					},
 					{
@@ -17078,7 +17187,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -17157,7 +17267,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -17232,7 +17343,8 @@
 						},
 						"subclass": {
 							"name": "",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": ""
 						}
 					}
 				]
@@ -17310,7 +17422,8 @@
 						},
 						"subclass": {
 							"name": "",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": ""
 						}
 					}
 				]
@@ -17388,7 +17501,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					},
 					{
@@ -17398,7 +17512,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -17475,7 +17590,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -17553,7 +17669,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -17628,7 +17745,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -17708,7 +17826,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -17782,7 +17901,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					}
 				]
@@ -17857,7 +17977,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -17938,7 +18059,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18055,7 +18177,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18189,7 +18312,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18327,7 +18451,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18452,7 +18577,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18588,7 +18714,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18718,7 +18845,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18857,7 +18985,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -18981,7 +19110,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19119,7 +19249,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19260,7 +19391,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19396,7 +19528,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19533,7 +19666,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19657,7 +19791,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19786,7 +19921,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -19919,7 +20055,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -20004,7 +20141,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -20082,7 +20220,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -20171,7 +20310,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -20258,7 +20398,8 @@
 						},
 						"subclass": {
 							"name": "Alchemist",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Alchemist"
 						}
 					}
 				]
@@ -20343,7 +20484,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -20419,7 +20561,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -20495,7 +20638,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -20577,7 +20721,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -20714,7 +20859,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -20852,7 +20998,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer ",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer "
 						}
 					}
 				]
@@ -20992,7 +21139,8 @@
 						},
 						"subclass": {
 							"name": "Mystic Sage",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Mystic Sage"
 						}
 					},
 					{
@@ -21002,7 +21150,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -21125,7 +21274,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21205,7 +21355,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					},
 					{
@@ -21215,7 +21366,8 @@
 						},
 						"subclass": {
 							"name": "Arcane Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Arcane Engineer"
 						}
 					}
 				]
@@ -21293,7 +21445,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21361,7 +21514,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21442,7 +21596,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21518,7 +21673,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21591,7 +21747,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21664,7 +21821,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21738,7 +21896,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21813,7 +21972,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21887,7 +22047,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -21962,7 +22123,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22041,7 +22203,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22114,7 +22277,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22188,7 +22352,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22261,7 +22426,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22335,7 +22501,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22410,7 +22577,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22485,7 +22653,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22561,7 +22730,8 @@
 						},
 						"subclass": {
 							"name": "",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": ""
 						}
 					}
 				]
@@ -22635,7 +22805,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22710,7 +22881,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22785,7 +22957,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22861,7 +23034,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -22936,7 +23110,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23017,7 +23192,8 @@
 						},
 						"subclass": {
 							"name": "Clockwork Engineer",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Clockwork Engineer"
 						}
 					}
 				]
@@ -23131,7 +23307,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23210,7 +23387,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23285,7 +23463,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23363,7 +23542,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23437,7 +23617,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23516,7 +23697,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -23593,7 +23775,8 @@
 						},
 						"subclass": {
 							"name": "Battlesmith",
-							"source": "MMMxArtificer"
+							"source": "MMMxArtificer",
+							"shortName": "Battlesmith"
 						}
 					}
 				]
@@ -25384,7 +25567,7 @@
 			"header": 1
 		},
 		{
-			"name": " Arcane Engineer's Additional Spell List",
+			"name": "Arcane Engineer's Additional Spell List",
 			"entries": [
 				"You always have certain spells prepared after you reach particular levels in this class, as shown in the Arcane Engineer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
 				{

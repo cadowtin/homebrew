@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_schema-fast/homebrew.json",
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
@@ -28,8 +28,8 @@
 			"TS:Wan": "Tinker Specialization, Wandslinger"
 		},
 		"dateAdded": 0,
-		"dateLastModified": 1668700856,
-		"_dateLastModifiedHash": "4a9f48ca37"
+		"dateLastModified": 1671646965,
+		"_dateLastModifiedHash": "e7aab0d770"
 	},
 	"class": [
 		{
@@ -2887,7 +2887,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -2942,7 +2943,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3007,7 +3009,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3070,7 +3073,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3126,7 +3130,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3185,7 +3190,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3241,7 +3247,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3302,7 +3309,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3360,7 +3368,8 @@
 						},
 						"subclass": {
 							"name": "Chemist",
-							"source": "devikyn-tinker"
+							"source": "devikyn-tinker",
+							"shortName": "Chemist"
 						}
 					}
 				]
@@ -3765,7 +3774,6 @@
 			"weaponCategory": "martial",
 			"rarity": "none",
 			"bonusAc": "2",
-			"ammunition": true,
 			"ammoType": "sling bullet|phb",
 			"dmgType": "P",
 			"dmg1": "1d12",
@@ -3806,7 +3814,6 @@
 			"weapon": true,
 			"weaponCategory": "martial",
 			"rarity": "none",
-			"ammunition": true,
 			"dmgType": "P",
 			"dmg1": "1d10",
 			"range": "40/160",
@@ -3826,7 +3833,6 @@
 			"weapon": true,
 			"weaponCategory": "martial",
 			"rarity": "none",
-			"ammunition": true,
 			"dmgType": "P",
 			"dmg1": "1d8",
 			"range": "50/200",
@@ -3846,7 +3852,6 @@
 			"weapon": true,
 			"weaponCategory": "martial",
 			"rarity": "none",
-			"ammunition": true,
 			"dmgType": "P",
 			"dmg1": "2d6",
 			"range": "90/360",
@@ -3866,7 +3871,6 @@
 			"weapon": true,
 			"weaponCategory": "martial",
 			"rarity": "none",
-			"ammunition": true,
 			"dmgType": "T",
 			"dmg1": "3d6",
 			"dmg2": "2d10",
