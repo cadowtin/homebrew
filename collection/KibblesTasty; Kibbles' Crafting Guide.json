@@ -28024,6 +28024,7 @@
 			"page": 13,
 			"type": "Comp",
 			"rarity": "common",
+			"weight": 0.2,
 			"value": 1500,
 			"entries": [
 				"Used for {@book Alchemy|KTKCG|10}, {@book Poisoncraft|KTKCG|11}."
@@ -28118,6 +28119,7 @@
 			"type": "Comp",
 			"rarity": "uncommon",
 			"value": 4000,
+			"weight": 0.2,
 			"entries": [
 				"Used for {@book Alchemy|KTKCG|10}, {@book Poisoncraft|KTKCG|11}."
 			],
@@ -28168,6 +28170,7 @@
 			"page": 13,
 			"type": "Comp",
 			"rarity": "rare",
+			"weight": 0.2,
 			"value": 20000,
 			"entries": [
 				"Used for {@book Alchemy|KTKCG|10}, {@book Poisoncraft|KTKCG|11}."
@@ -28219,6 +28222,7 @@
 			"page": 13,
 			"type": "Comp",
 			"rarity": "very rare",
+			"weight": 0.2,
 			"value": 200000,
 			"entries": [
 				"Used for {@book Alchemy|KTKCG|10}, {@book Poisoncraft|KTKCG|11}."
@@ -28270,6 +28274,7 @@
 			"page": 13,
 			"type": "Comp",
 			"rarity": "legendary",
+			"weight": 0.2,
 			"value": 500000,
 			"entries": [
 				"Used for {@book Alchemy|KTKCG|10}, {@book Poisoncraft|KTKCG|11}."
@@ -29427,7 +29432,8 @@
 				"page": 17,
 				"nameRemove": "Reagent",
 				"nameSuffix": "Poisonous Reagent",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "0.2"
 			}
 		},
 		{
@@ -29443,7 +29449,8 @@
 				"page": 17,
 				"nameRemove": "Reagent",
 				"nameSuffix": "Reactive Reagent",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "0.2"
 			}
 		},
 		{
@@ -29459,7 +29466,8 @@
 				"page": 17,
 				"nameRemove": "Reagent",
 				"nameSuffix": "Curative Reagent",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "0.2"
 			}
 		},
 		{
@@ -29478,7 +29486,8 @@
 				"rarity": "varies",
 				"entries": [
 					"{@note Unsure if this should exist or if it's a typo/generic shorthand for all reagent types?}"
-				]
+				],
+				"weightExpression": "0.2"
 			}
 		},
 		{
@@ -29494,7 +29503,9 @@
 				"page": 17,
 				"nameRemove": "Essence",
 				"nameSuffix": "Primal Essence",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "[[baseItem.weight]]",
+				"valueExpression": "[[baseItem.value]]"
 			}
 		},
 		{
@@ -29510,7 +29521,9 @@
 				"page": 17,
 				"nameRemove": "Essence",
 				"nameSuffix": "Arcane Essence",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "[[baseItem.weight]]",
+				"valueExpression": "[[baseItem.value]]"
 			}
 		},
 		{
@@ -29526,7 +29539,9 @@
 				"page": 17,
 				"nameRemove": "Essence",
 				"nameSuffix": "Psionic Essence",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "[[baseItem.weight]]",
+				"valueExpression": "[[baseItem.value]]"
 			}
 		},
 		{
@@ -29542,7 +29557,9 @@
 				"page": 17,
 				"nameRemove": "Essence",
 				"nameSuffix": "Divine Essence",
-				"rarity": "varies"
+				"rarity": "varies",
+				"weightExpression": "[[baseItem.weight]]",
+				"valueExpression": "[[baseItem.value]]"
 			}
 		},
 		{
