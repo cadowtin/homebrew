@@ -1,0 +1,700 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "S:BO22",
+				"abbreviation": "S:Bo22",
+				"full": "Subclasses - Best of 2022",
+				"authors": [
+					"Stuffies12"
+				],
+				"convertedBy": [
+					"cdowtin"
+				],
+				"version": "",
+				"color": "35683C",
+				"url": "https://www.gmbinder.com/share/-NJzmuvEBICZdcvGDrtk",
+			}
+		],
+		"status": "wip",
+		"dateAdded": 1635698221,
+		"dateLastModified": 1635709525,
+		"_dateLastModifiedHash": "d13004944d"
+	},
+	"subclass": [
+		{
+			"name": "Nanoassembler",
+			"subclassFeatures": [
+				"Nanoassembler|Artificer|TCE|Nanoassembler|S:Bo22|3",
+				"Swarming Assimilation|Artificer|TCE|Nanoassembler|S:Bo22|5",
+				"Versatile Swarm|Artificer|TCE|Nanoassembler|S:Bo22|9",
+				"Tiny Mastery|Artificer|TCE|Nanoassembler|S:Bo22|15"
+			],
+			"source": "S:Bo22",
+			"shortName": "Nanoassembler",
+			"className": "Artificer",
+			"classSource": "TCE",
+			"additionalSpells": [
+				{
+					"prepared": {
+						"3": [
+							"faerie fire",
+							"fog cloud"
+						],
+						"5": [
+							"mirror image",
+							"web"
+						],
+						"9": [
+							"major image",
+							"stinking cloud"
+						],
+						"13": [
+							"hallucinatory terrain",
+							"greater invisibility"
+						],
+						"15": [
+							"cloudkill",
+							"insect plague"
+						]
+					}
+				}
+			],
+			"subclassSpells": [
+				"faerie fire",
+				"fog cloud",
+				"mirror image",
+				"web",
+				"major image",
+				"stinking cloud",
+				"major image",
+				"stinking cloud",
+				"hallucinatory terrain",
+				"greater invisibility",
+				"cloudkill",
+				"insect plague"
+			]
+		},
+		{
+			"name": "Marauderer",
+			"source": "S:Bo22",
+			"shortName": "Marauderer",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassFeatures": [
+				"Marauderer|Rogue|PHB|Marauderer|S:Bo22|3|S:Bo22",
+				"Sneaky Savage|Rogue|PHB|Marauderer|S:Bo22|9|S:Bo22",
+				"Body Shield|Rogue|PHB|Marauderer|S:Bo22|13|S:Bo22",
+				"Deadly Grip|Rogue|PHB|Marauderer|S:Bo22|17|S:Bo22"
+			]
+		},
+		{
+			"name": "The Beloved",
+			"shortName": "Beloved",
+			"source": "S:Bo22",
+			"subclassSpells": [
+				"Ceremony|XGE",
+				"Sanctuary",
+				"Aid",
+				"Warding Bond",
+				"catnap|XGE",
+				"Feign Death",
+				"Divination",
+				"Mordekainen's Private Sanctum",
+				"Creation",
+				"Rary's Telepathic Bond"
+			],
+			"subclassFeatures": [
+				"Beloved|Warlock||Beloved|S:Bo22|1",
+				"Devoted Body|Warlock||Beloved|S:Bo22|6",
+				"Sweetheart's Shelter|Warlock||Beloved|S:Bo22|10",
+				"Loved One's Blessing|Warlock||Beloved|S:Bo22|14"
+			],
+			"className": "Warlock",
+			"classSource": "PHB"
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Nanoassembler",
+			"source": "S:Bo22",
+			"page": 1,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"The Nanoassembler specialises in making tiny magic contraptions to aid them and their allies. These tiny contraptions, each about the size of a fly, move in sync to create a swarm. While their small size makes them fragile, it also allows them to go undetected during fights. A Nanoassembler’s swarm is extremely versatile, able to affect both creatures and weapons alike.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Tool Proficiency|Artificer|TCE|Nanoassembler|S:Bo22|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Nanoassembler Spells|Artificer|TCE|Nanoassembler|S:Bo22|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Nanoswarm|Artificer|TCE|Nanoassembler|S:Bo22|3"
+				}
+			]
+		},
+		{
+			"name": "Nanoassembler Spells",
+			"source": "S:Bo22",
+			"page": 1,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Nanoassembler Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+				{
+					"type": "table",
+					"caption": "Nanoassembler Spells",
+					"colLabels": [
+						"Artificer Level",
+						"Nanoassembler Spells"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-10"
+					],
+					"rows": [
+						[
+							"3rd",
+							"{@spell faerie fire}, {@spell fog cloud}"
+						],
+						[
+							"5th",
+							"{@spell mirror image}, {@spell web}"
+						],
+						[
+							"9th",
+							"{@spell major image}, {@spell stinking cloud}"
+						],
+						[
+							"13th",
+							"{@spell hallucinatory terrain}, {@spell greater invisibility}"
+						],
+						[
+							"15th",
+							"{@spell cloudkill}, {@spell insect plague}"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Tool Proficiency",
+			"source": "S:Bo22",
+			"page":1,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"When you adopt this specialization at 3rd level, you gain proficiency with {@item smith's tools|PHB}. If you already have this proficiency, you gain proficiency with one other type of {@item artisan's tools|PHB} of your choice."
+			]
+		},
+		{
+			"name": "Nanoswarm",
+			"source": "S:Bo22",
+			"page":1,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"Your tinkering habits have made you an expert in making tiny contraptions, resulting in the creation of a nanoswarm. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the {@creature nanoswarm} stat block, which uses your proficiency bonus (PB) in several places.",
+				"In combat, the nanoswarm shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the nanoswarm can take any action of its choice, not just Dodge.",
+				"If the mending spell is cast on it, it regains 1d6 hit points. The nanoswarm remains until it is reduced to 0 hit points or until you die. When you no longer have a nanoswarm, you can use an action and expend a spell slot of 1st-level or higher to make a new one, using your smith’s tools as the spellcasting focus, where it appears in your space.",
+				"At the end of a long rest, you can create a new nanoswarm if you have your smith's tools with you. If you already have a nanoswarm from this feature, the first one immediately perishes."
+			]
+		},
+		{
+			"name": "Swarming Assimilation",
+			"source": "S:Bo22",
+			"page": 2,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 5,
+			"entries": [
+				"Your {@creature nanoswarm}’s miniature size lets it affect things from the inside. You can command your nanoswarm to assimilate a creature or object when it is in the target’s space. An unwilling creature must succeed on a Constitution saving throw against your spell save DC or be assimilated. As part of the same command, and as a bonus action on each of your turns, your nanoswarm can do one of the following:",
+				{
+					"type": "list",
+					"items": [
+						"{@b {@i Healing Factor.}} Your nanoswarm continuously regulates a body’s vital functions. The assimilated creature regains 1d4 hit points.",
+						"{@b {@i Biological Decay.}} Your nanoswarm attacks the body from the inside. When you command your nanoswarm to make a Swarm Attack, the attack always hits the target. Additionally, when the creature makes an attack roll, you can use your reaction to give disadvantage on the roll. This also uses your nanoswarm’s reaction.",
+						"{@b {@i Item Improvement.}} Your nanoswarm assimilates with a willing creature’s suit of armour, shield, or simple or martial weapon. When it does, the object gains a +1 bonus to its AC or its attack and damage rolls, respectively."
+					]
+				},
+				"While your nanoswarm assimilates with a creature or object, it can't use its traits, becomes invisible, shares the target’s space, and moves with the target. It also gains resistance to all damage except thunder and force damage. An attacker that makes an attack roll against an assimilated target also makes an attack against the nanoswarm at the same time. If your nanoswarm is hit, the attacker uses the same damage roll for the assimilated target and the nanoswarm. Your nanoswarm is still affected by area spell effects as normal. You can command your nanoswarm to stop assimilating a target (no action required).",
+				"An unwilling creature can repeat the saving throw at the end of each of its turns. On a success, the effect ends, your nanoswarm is no longer invisible, and it appears in the creature’s space. If the target your nanoswarm is assimilating is destroyed, it appears in the target’s space and is no longer invisible. If your nanoswarm dies while assimilating a target, it disappear."
+			]
+		},
+		{
+			"name": "Versatile Swarm",
+			"source": "S:Bo22",
+			"page": 2,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 9,
+			"entries": [
+				"You’ve made improvements to the functionality of your nanoswarm, making it more versatile and potent in combat, gaining the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"Your nanoswarm can deliver an artificer spell you cast that has a range of touch to a creature or object it is assimilating, which also uses its reaction. When you cast in this way, you must be within 60 feet of the assimilated target.",
+						"When a creature you can see uses an assimilated weapon to make an attack, you can use your reaction to give advantage on the attack. This also uses your nanoswarm’s reaction.",
+						"When your nanoswarm hits an assimilated creature with a Swarm Attack, you can force the creature to succeed on a Constitution saving throw against your spell save DC or have it be blinded or deafened (your choice) until the start of your next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tiny Mastery",
+			"source": "S:Bo22",
+			"page": 2,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"subclassShortName": "Nanoassembler",
+			"subclassSource": "S:Bo22",
+			"level": 15,
+			"entries": [
+				"You are a master at creating tiny contraptions and gain the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"Your nanoswarm gains a +2 bonus to Armour Class.",
+						"Your nanoswarm’s Healing Factor is now 1d6. Also, as part of this ability, you can end one effect causing an assimilated creature to be blinded, charmed, deafened, frightened, or poisoned.",
+						"When your nanoswarm makes a Swarm Attack while assimilated with a creature, the damage increases to 2d4. Additionally, when an assimilated creature you can see makes a saving throw, you can use your reaction to have the creature roll with disadvantage. This also uses your nanoswarm’s reaction.",
+						"If a creature is wearing an assimilated armour or wielding an assimilated shield, attack rolls against it are made with disadvantage, as long as the creature is proficient in the armour or shield."
+					]
+				},
+				"In addition, when your nanoswarm is damaged by an attack or spell and isn’t assimilated, it can use its reaction to disperse, taking 0 damage and ending any harmful effects and conditions. It then reforms at a point within 30 feet of you that you can see. Once your nanoswarm uses this ability, it can’t be used again until it reaches 0 hit points or until you make a new nanoswarm."
+			]
+		},	
+		{
+			"name": "Marauderer",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"The Marauder is a brutish rogue that looks out only for itself. Such a rogue will not hesitate use innocents as collateral to protect themselves if need be. For this rogue, concepts such as pride, honour, and fairness mean nothing in the heat of combat. The only thing that does matter is who is left alive at the end of it all.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Heavy Training|Rogue|PHB|Marauderer|S:Bo22|3|S:Bo22"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Dirty Fighting|Rogue|PHB|Marauderer|S:Bo22|3|S:Bo22"
+				}
+			]
+		},
+		{
+			"name": "Heavy Training",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"You gain proficiency in medium armour and two martial melee weapons of your choice. You can use the chosen weapons to deal Sneak Attack damage, even if they lack the finesse property, as long as you meet the other requirements for the Sneak Attack."
+			]
+		},
+		{
+			"name": "Dirty Fighting",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"You’re not above using crude tactics to gain the upper hand. You can attempt to grapple a target as a bonus action.",
+				"You also gain an additional way to use your Sneak Attack; you don’t need advantage on your attack roll to use Sneak Attack against a creature if you are grappling it, and you don’t have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you."
+			]
+		},
+		{
+			"name": "Butchering Blow",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 3,
+			"entries": [
+				"When you reveal yourself to your quarry, you make sure to land a killing blow. When you roll for Sneak Attack damage, you can choose to reroll a number of Sneak Attack dice up to your Strength modifier (minimum of one die), and you must use the new rolls."
+			]
+		},
+		{
+			"name": "Sneaky Savage",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 9,
+			"header": 2,
+			"entries": [
+				
+				"You move silently even when wearing bulkier equipment. If an armour you’re wearing normally imposes disadvantage on Dexterity (Stealth) checks, it no longer does for you.",
+				"Additionally, if you are hidden from a creature and attempt to grapple it, you can do so with advantage."
+			]
+		},
+		{
+			"name": "Body Shield",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 13,
+			"header": 2,
+			"entries": [
+				"You don’t hesitate to put others in the line of fire to survive. When an attacker you can see hits you with an attack while you’re grappling a creature, you can use your reaction to take half the damage from the attack and make the grappled creature take the other half."
+			]
+		},
+		{
+			"name": "Deadly Grip",
+			"source": "S:Bo22",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Marauderer",
+			"subclassSource": "S:Bo22",
+			"level": 17,
+			"header": 2,
+			"entries": [
+				"A person is only free of your grasp when they're dead. When you hit a creature you’re grappling, you can make that attack a critical hit. You must finish a long rest before you can attack in this way again.",
+				"Additionally, your attack rolls against a grappled creature can’t be affected by disadvantage."
+			
+			]
+		},
+		{
+			"name": "Beloved",
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 1,
+			"entries": [
+				"You have made a pact with a being that you share a significant fondness with. Despite the gulf that stands between the two of you in terms of power and physical distance, the dynamic between you and your patron is unique among warlocks. You both treat each other as one would an important friend or significant other. A common goal warlocks have with such patrons are to be able to meet each other and be finally united, though there are always subtle nuances that only you and your patron share.",
+				"You decide what the finer details of your relationship with your patron are, or you can roll for a possible reason in the Beloved Motivations table.",
+				{
+					"type": "table",
+					"caption": "Beloved Motivation",
+					"colLabels": [
+						"{@dice d6}",
+						"Brand"
+					],
+					"colStyles": [
+						"col-1 text-center",
+						"col-11"
+					],
+					"rows": [
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 1
+										}
+									},
+							"Your patron was previously a mortal like yourself, and you both shared a special relationship in life."
+						],
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 2
+										}
+									},
+							"Your patron will undoubtedly outlive you. You both are trying to find a solution to this problem."
+						],
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 3
+										}
+									},
+							"You and your patron are supposed to be sworn enemies, but your feelings for each other have overcome that. The same can't be said for your respective kinds."
+						],
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 4
+										}
+									},
+							"Your patron is a reincarnation of a loved one who has died, though they don't know it. All they see is your unwavering loyalty."
+						],
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 5
+										}
+									},
+							"You had originally owed your patron a debt, though your actions now go beyond simple repayment."
+						],
+						[
+							{
+										"type": "cell",
+										"roll": {
+											"exact": 6
+										}
+									},
+							"Your family has served this patron for generations. They seem to have developed a particular interest in you."
+						]
+					]
+				},				
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Beloved Expanded Spell List|Warlock||Beloved|S:Bo22|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Protective Veil|Warlock||Beloved|S:Bo22|1"
+				}
+			]
+		},
+		{
+			"name": "Beloved Expanded Spell List",
+			"entries": [
+				"The Beloved lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+				{
+					"type": "table",
+					"caption": "Beloved Expanded Spells",
+					"colLabels": [
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell ceremony|XGE}, {@spell sanctuary}"
+						],
+						[
+							"2nd",
+							"{@spell aid}, {@spell warding bond}"
+						],
+						[
+							"3rd",
+							"{@spell catnap|XGE}, {@spell feign death}"
+						],
+						[
+							"4th",
+							"{@spell divination}, {@spell Mordenkainen's private sanctum}"
+						],
+						[
+							"5th",
+							"{@spell creation}, {@spell Rary's Telepathic Bond}"
+						]
+					]
+				}
+			],
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 1,
+			"header": 1
+		},
+		{
+			"name": "Protective Veil",
+			"entries": [
+				"Your loved one will always try to shield you from harm. When you take damage, you can use your reaction to halve the damage taken.",
+				"Once you use this feature, you can't use it again until you finish a short or long rest."
+			],
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 1,
+			"header": 1
+		},
+		{
+			"name": "Devoted Body",
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"The devotion you show for your patron ensures you never stray from them. You are immune to being charmed.",
+				"In addition, your commitment to your patron manifests as further protection. As a bonus action, you can give yourself an AC of 13 + your Charisma modifier for 1 hour. You must finish a long rest before you can use this bonus action again"
+			]
+		},
+		{
+			"name": "Sweetheart's Shelter",
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"The power of your patron is able to protect you from harm. At the end of a long rest, you gain the effect of a sanctuary spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell is your spell save DC."
+			]
+		},
+		{
+			"name": "Loved One's Blessing",
+			"source": "S:Bo22",
+			"page": 15,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Beloved",
+			"subclassSource": "S:Bo22",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"Your love and devotion for your patron gives them the ability to temporarily merge with you. You can use an action to gain the following benefits for 1 minute:",
+				{
+					"type": "list",
+					"items": [
+						"You have resistance to all damage.",
+						"You regain hit points equal to {@dice 1d6} + your Charisma modifier if you end your turn in combat with fewer than half of your hit points remaining.",
+						"If a creature hits you with an attack or harmful spell, it takes radiant damage equal to your Charisma modifier (minimum of 1 damage).",
+						"When you use your Protective Veil feature, you can use your reaction to nullify all damage taken. This doesn’t negate any other effects that might accompany the attack or spell."
+					]
+				},
+				"Once you use this feature, you can't use it again until you finish a long rest."
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Nanoswarm",
+			"source": "S:Bo22",
+			"page": 1,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "construct",
+				"swarmSize": "T"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"special": "1 + your Intelligence modifier + your artificer level (the nanoswarm has a number of Hit Dice [d4s] equal to your artificer level)"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 60,
+					"condition": "(hover)"
+				},
+				"canHover": true
+			},
+			"str": 4,
+			"dex": 18,
+			"con": 10,
+			"int": 12,
+			"wis": 10,
+			"cha": 7,
+			"skill": {
+				"stealth": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"resist": [
+				"bludgeoning",
+				"piercing",
+				"slashing"
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"stunned"
+			],
+			"languages": [
+				"understands the languages you speak"
+			],
+			"pbNote": "equals your bonus",
+			"trait": [
+				{
+					"name": "Constructed Swarm",
+					"entries": [
+						"The nanoswarm can occupy another creature's space and vice versa, and can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Evasion",
+					"entries": [
+						"If the nanoswarm is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's {@condition incapacitated}."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Swarm Attack",
+					"entries": [
+						"{@atk mw} your spell attack modifier to hit, reach 0 ft., one target you can see in the swarm's space. Hit {@damage 1d4 + PB} force damage"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"O"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"save": {
+				"dex": "+4"
+			}
+		}
+	]
+}
